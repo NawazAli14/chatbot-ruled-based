@@ -1,5 +1,5 @@
 # Python Chatbot
-Hello, and welcome to Python Chatbot! This program was created by Nawaz Ali, Azam KHan and Sanjay Bilal. Through user interaction, it can do the following:
+Hello, and welcome to Python Chatbot! This program was created by Nawaz Ali. Through user interaction, it can do the following:
 
 - Retrieve the summary of a Wikipedia article
 
